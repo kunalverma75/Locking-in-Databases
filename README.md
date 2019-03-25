@@ -1,6 +1,6 @@
 # Locking-in-Databases
-This is a blog about the concept of locking in database systems.
-
+This is a blog in the form of an ipynotebook about the concept of locking in database systems.
+The notebook contains the following main concepts
 Contents:
 ##### What is a Lock
 ##### How a lock functions
